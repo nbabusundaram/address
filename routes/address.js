@@ -4,7 +4,7 @@ module.exports = function(app) {
 
 app.get('/', function(req,res,next)
 {
-res.send('Address API Server running Successfully! Siddhart how is it');
+res.send('Address API Server running Successfully! Bhanu how is it');
 
 });
 
